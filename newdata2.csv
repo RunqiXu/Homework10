@@ -1,253 +1,253 @@
 SACC code,Country of birth,Year,Net Migration
-1101,Australia,"2,020","7,470"
-1102,Norfolk Island,"2,020",0
-1199,"Aust E T, nec","2,020",0
-1201,New Zealand,"2,020","-2,150"
-1301,New Caledonia,"2,020",0
-1302,PNG,"2,020",-180
-1303,Solomon Islands,"2,020",990
-1304,Vanuatu,"2,020","2,290"
-1401,Guam,"2,020",0
-1402,Kiribati,"2,020",180
-1403,Marshall Is,"2,020",0
-1404,"Micronesia, F S","2,020",0
-1405,Nauru,"2,020",-20
-1406,N Mariana Is,"2,020",0
-1407,Palau,"2,020",0
-1501,Cook Islands,"2,020",-10
-1502,Fiji,"2,020",810
-1503,French Poly,"2,020",-30
-1504,Niue,"2,020",0
-1505,Samoa,"2,020","1,000"
-1506,Samoa American,"2,020",0
-1507,Tokelau,"2,020",-10
-1508,Tonga,"2,020","1,770"
-1511,Tuvalu,"2,020",-30
-1512,Wallis/Futuna,"2,020",0
-1513,Pitcairn Is,"2,020",0
-1599,"Polynesia, nec","2,020",0
-1601,Adelie Land,"2,020",0
-1602,Argentinian A T,"2,020",0
-1603,Australian A T,"2,020",0
-1604,British A T,"2,020",0
-1605,Chilean A T,"2,020",0
-1606,Queen Maud Land,"2,020",0
-1607,Ross Dependency,"2,020",0
-2100,"UK, CIs & IOM","2,020",-960
-2201,Ireland,"2,020","-1,200"
-2301,Austria,"2,020",-50
-2302,Belgium,"2,020",-240
-2303,France,"2,020","-2,190"
-2304,Germany,"2,020","-1,090"
-2305,Liechtenstein,"2,020",0
-2306,Luxembourg,"2,020",0
-2307,Monaco,"2,020",0
-2308,Netherlands,"2,020",-420
-2311,Switzerland,"2,020",-90
-2401,Denmark,"2,020",-140
-2402,Faroe Islands,"2,020",0
-2403,Finland,"2,020",-130
-2404,Greenland,"2,020",0
-2405,Iceland,"2,020",0
-2406,Norway,"2,020",-170
-2407,Sweden,"2,020",-230
-2408,Aland Islands,"2,020",0
-3101,Andorra,"2,020",0
-3102,Gibraltar,"2,020",0
-3103,Holy See,"2,020",0
-3104,Italy,"2,020","-1,240"
-3105,Malta,"2,020",-30
-3106,Portugal,"2,020",-70
-3107,San Marino,"2,020",0
-3108,Spain,"2,020",-600
-3201,Albania,"2,020",-60
-3202,Bosnia/Herzegov,"2,020",-120
-3203,Bulgaria,"2,020",-40
-3204,Croatia,"2,020",-110
-3205,Cyprus,"2,020",-40
-3206,North Macedonia,"2,020",-120
-3207,Greece,"2,020",-410
-3208,Moldova,"2,020",-10
-3211,Romania,"2,020",-100
-3212,Slovenia,"2,020",-30
-3214,Montenegro,"2,020",0
-3215,Serbia,"2,020",-140
-3216,Kosovo,"2,020",-10
-3301,Belarus,"2,020",10
-3302,Czechia,"2,020",-150
-3303,Estonia,"2,020",-270
-3304,Hungary,"2,020",-110
-3305,Latvia,"2,020",-20
-3306,Lithuania,"2,020",-80
-3307,Poland,"2,020",-300
-3308,Russia,"2,020",-150
-3311,Slovakia,"2,020",-100
-3312,Ukraine,"2,020",30
-4101,Algeria,"2,020",-10
-4102,Egypt,"2,020",200
-4103,Libya,"2,020",0
-4104,Morocco,"2,020",10
-4105,Sudan,"2,020",30
-4106,Tunisia,"2,020",10
-4107,Western Sahara,"2,020",0
-4108,Sp North Africa,"2,020",0
-4111,South Sudan,"2,020",10
-4201,Bahrain,"2,020",20
-4202,Gaza Str/W Bank,"2,020",0
-4203,Iran,"2,020",590
-4204,Iraq,"2,020",0
-4205,Israel,"2,020",-110
-4206,Jordan,"2,020",70
-4207,Kuwait,"2,020",20
-4208,Lebanon,"2,020",810
-4211,Oman,"2,020",-100
-4212,Qatar,"2,020",50
-4213,Saudi Arabia,"2,020","-2,100"
-4214,Syria,"2,020",170
-4215,Turkey,"2,020",-150
-4216,Unit Arab Emir,"2,020",480
-4217,Yemen,"2,020",10
-5101,Myanmar,"2,020",-10
-5102,Cambodia,"2,020",-280
-5103,Laos,"2,020",-150
-5104,Thailand,"2,020","-1,500"
-5105,Vietnam,"2,020","-1,420"
-5201,Brunei,"2,020",-40
-5202,Indonesia,"2,020","-2,510"
-5203,Malaysia,"2,020","-4,460"
-5204,Philippines,"2,020","1,080"
-5205,Singapore,"2,020",-760
-5206,Timor-Leste,"2,020",60
-6101,China,"2,020","-50,270"
-6102,Hong Kong,"2,020",810
-6103,Macau,"2,020",-150
-6104,Mongolia,"2,020",-790
-6105,Taiwan,"2,020","-3,420"
-6201,Japan,"2,020","-1,580"
-6202,"Korea, North","2,020",-40
-6203,"Korea, South","2,020","-4,740"
-7101,Bangladesh,"2,020",-560
-7102,Bhutan,"2,020",-130
-7103,India,"2,020","-10,650"
-7104,Maldives,"2,020",-30
-7105,Nepal,"2,020","-2,090"
-7106,Pakistan,"2,020",-730
-7107,Sri Lanka,"2,020",-830
-7201,Afghanistan,"2,020","1,460"
-7202,Armenia,"2,020",10
-7203,Azerbaijan,"2,020",-20
-7204,Georgia,"2,020",30
-7205,Kazakhstan,"2,020",-30
-7206,Kyrgyzstan,"2,020",-10
-7207,Tajikistan,"2,020",0
-7208,Turkmenistan,"2,020",0
-7211,Uzbekistan,"2,020",-60
-8101,Bermuda,"2,020",0
-8102,Canada,"2,020",-400
-8103,St Pierre/Mique,"2,020",0
-8104,USA,"2,020",-10
-8201,Argentina,"2,020",-390
-8202,Bolivia,"2,020",-10
-8203,Brazil,"2,020","-1,750"
-8204,Chile,"2,020",-400
-8205,Colombia,"2,020","-1,460"
-8206,Ecuador,"2,020",-40
-8207,Falkland Is,"2,020",0
-8208,French Guiana,"2,020",0
-8211,Guyana,"2,020",0
-8212,Paraguay,"2,020",-10
-8213,Peru,"2,020",-50
-8214,Suriname,"2,020",0
-8215,Uruguay,"2,020",-80
-8216,Venezuela,"2,020",-20
-8299,"S America, nec","2,020",0
-8301,Belize,"2,020",0
-8302,Costa Rica,"2,020",0
-8303,El Salvador,"2,020",30
-8304,Guatemala,"2,020",0
-8305,Honduras,"2,020",20
-8306,Mexico,"2,020",-140
-8307,Nicaragua,"2,020",0
-8308,Panama,"2,020",-10
-8401,Anguilla,"2,020",0
-8402,Antigua/Barbuda,"2,020",0
-8403,Aruba,"2,020",0
-8404,Bahamas,"2,020",0
-8405,Barbados,"2,020",0
-8406,Cayman Islands,"2,020",0
-8407,Cuba,"2,020",0
-8408,Dominica,"2,020",0
-8411,Dominican Rep,"2,020",10
-8412,Grenada,"2,020",0
-8413,Guadeloupe,"2,020",0
-8414,Haiti,"2,020",0
-8415,Jamaica,"2,020",0
-8416,Martinique,"2,020",0
-8417,Montserrat,"2,020",0
-8421,Puerto Rico,"2,020",-10
-8422,St Kitts/Nevis,"2,020",0
-8423,St Lucia,"2,020",0
-8424,St Vinc/Grenad,"2,020",0
-8425,Trinidad/Tobago,"2,020",10
-8426,Turks/Caicos Is,"2,020",0
-8427,"Virgin Is, Brit","2,020",0
-8428,"Virgin Is, US","2,020",0
-8431,St Barthelemy,"2,020",0
-8432,St Martin (Fr),"2,020",0
-8433,Bonaire/SE/Saba,"2,020",0
-8434,Curacao,"2,020",0
-8435,Sint Maarten Dp,"2,020",0
-9101,Benin,"2,020",-10
-9102,Burkina Faso,"2,020",0
-9103,Cameroon,"2,020",0
-9104,Cabo Verde,"2,020",0
-9105,Cent Africa Rep,"2,020",0
-9106,Chad,"2,020",0
-9107,"Congo, Rep","2,020",10
-9108,"Congo, Dem Rep","2,020",30
-9111,Cote d'Ivoire,"2,020",0
-9112,Equator Guinea,"2,020",0
-9113,Gabon,"2,020",0
-9114,Gambia,"2,020",0
-9115,Ghana,"2,020",-60
-9116,Guinea,"2,020",10
-9117,Guinea-Bissau,"2,020",0
-9118,Liberia,"2,020",20
-9121,Mali,"2,020",0
-9122,Mauritania,"2,020",0
-9123,Niger,"2,020",0
-9124,Nigeria,"2,020",10
-9125,Sao Tome/Princ,"2,020",0
-9126,Senegal,"2,020",10
-9127,Sierra Leone,"2,020",20
-9128,Togo,"2,020",0
-9201,Angola,"2,020",0
-9202,Botswana,"2,020",-20
-9203,Burundi,"2,020",0
-9204,Comoros,"2,020",0
-9205,Djibouti,"2,020",0
-9206,Eritrea,"2,020",20
-9207,Ethiopia,"2,020",150
-9208,Kenya,"2,020",-70
-9211,Lesotho,"2,020",0
-9212,Madagascar,"2,020",-10
-9213,Malawi,"2,020",-20
-9214,Mauritius,"2,020",-240
-9215,Mayotte,"2,020",0
-9216,Mozambique,"2,020",-20
-9217,Namibia,"2,020",10
-9218,Reunion,"2,020",-10
-9221,Rwanda,"2,020",10
-9222,St Helena,"2,020",0
-9223,Seychelles,"2,020",0
-9224,Somalia,"2,020",-10
-9225,South Africa,"2,020","2,560"
-9226,Eswatini,"2,020",0
-9227,Tanzania,"2,020",-10
-9228,Uganda,"2,020",20
-9231,Zambia,"2,020",20
-9232,Zimbabwe,"2,020",200
-9299,"S & E Afr, nec","2,020",0
+1101,Australia,"2020","7,470"
+1102,Norfolk Island,"2020",0
+1199,"Aust E T, nec","2020",0
+1201,New Zealand,"2020","-2,150"
+1301,New Caledonia,"2020",0
+1302,PNG,"2020",-180
+1303,Solomon Islands,"2020",990
+1304,Vanuatu,"2020","2,290"
+1401,Guam,"2020",0
+1402,Kiribati,"2020",180
+1403,Marshall Is,"2020",0
+1404,"Micronesia, F S","2020",0
+1405,Nauru,"2020",-20
+1406,N Mariana Is,"2020",0
+1407,Palau,"2020",0
+1501,Cook Islands,"2020",-10
+1502,Fiji,"2020",810
+1503,French Poly,"2020",-30
+1504,Niue,"2020",0
+1505,Samoa,"2020","1,000"
+1506,Samoa American,"2020",0
+1507,Tokelau,"2020",-10
+1508,Tonga,"2020","1,770"
+1511,Tuvalu,"2020",-30
+1512,Wallis/Futuna,"2020",0
+1513,Pitcairn Is,"2020",0
+1599,"Polynesia, nec","2020",0
+1601,Adelie Land,"2020",0
+1602,Argentinian A T,"2020",0
+1603,Australian A T,"2020",0
+1604,British A T,"2020",0
+1605,Chilean A T,"2020",0
+1606,Queen Maud Land,"2020",0
+1607,Ross Dependency,"2020",0
+2100,"UK, CIs & IOM","2020",-960
+2201,Ireland,"2020","-1,200"
+2301,Austria,"2020",-50
+2302,Belgium,"2020",-240
+2303,France,"2020","-2,190"
+2304,Germany,"2020","-1,090"
+2305,Liechtenstein,"2020",0
+2306,Luxembourg,"2020",0
+2307,Monaco,"2020",0
+2308,Netherlands,"2020",-420
+2311,Switzerland,"2020",-90
+2401,Denmark,"2020",-140
+2402,Faroe Islands,"2020",0
+2403,Finland,"2020",-130
+2404,Greenland,"2020",0
+2405,Iceland,"2020",0
+2406,Norway,"2020",-170
+2407,Sweden,"2020",-230
+2408,Aland Islands,"2020",0
+3101,Andorra,"2020",0
+3102,Gibraltar,"2020",0
+3103,Holy See,"2020",0
+3104,Italy,"2020","-1,240"
+3105,Malta,"2020",-30
+3106,Portugal,"2020",-70
+3107,San Marino,"2020",0
+3108,Spain,"2020",-600
+3201,Albania,"2020",-60
+3202,Bosnia/Herzegov,"2020",-120
+3203,Bulgaria,"2020",-40
+3204,Croatia,"2020",-110
+3205,Cyprus,"2020",-40
+3206,North Macedonia,"2020",-120
+3207,Greece,"2020",-410
+3208,Moldova,"2020",-10
+3211,Romania,"2020",-100
+3212,Slovenia,"2020",-30
+3214,Montenegro,"2020",0
+3215,Serbia,"2020",-140
+3216,Kosovo,"2020",-10
+3301,Belarus,"2020",10
+3302,Czechia,"2020",-150
+3303,Estonia,"2020",-270
+3304,Hungary,"2020",-110
+3305,Latvia,"2020",-20
+3306,Lithuania,"2020",-80
+3307,Poland,"2020",-300
+3308,Russia,"2020",-150
+3311,Slovakia,"2020",-100
+3312,Ukraine,"2020",30
+4101,Algeria,"2020",-10
+4102,Egypt,"2020",200
+4103,Libya,"2020",0
+4104,Morocco,"2020",10
+4105,Sudan,"2020",30
+4106,Tunisia,"2020",10
+4107,Western Sahara,"2020",0
+4108,Sp North Africa,"2020",0
+4111,South Sudan,"2020",10
+4201,Bahrain,"2020",20
+4202,Gaza Str/W Bank,"2020",0
+4203,Iran,"2020",590
+4204,Iraq,"2020",0
+4205,Israel,"2020",-110
+4206,Jordan,"2020",70
+4207,Kuwait,"2020",20
+4208,Lebanon,"2020",810
+4211,Oman,"2020",-100
+4212,Qatar,"2020",50
+4213,Saudi Arabia,"2020","-2,100"
+4214,Syria,"2020",170
+4215,Turkey,"2020",-150
+4216,Unit Arab Emir,"2020",480
+4217,Yemen,"2020",10
+5101,Myanmar,"2020",-10
+5102,Cambodia,"2020",-280
+5103,Laos,"2020",-150
+5104,Thailand,"2020","-1,500"
+5105,Vietnam,"2020","-1,420"
+5201,Brunei,"2020",-40
+5202,Indonesia,"2020","-2,510"
+5203,Malaysia,"2020","-4,460"
+5204,Philippines,"2020","1,080"
+5205,Singapore,"2020",-760
+5206,Timor-Leste,"2020",60
+6101,China,"2020","-50,270"
+6102,Hong Kong,"2020",810
+6103,Macau,"2020",-150
+6104,Mongolia,"2020",-790
+6105,Taiwan,"2020","-3,420"
+6201,Japan,"2020","-1,580"
+6202,"Korea, North","2020",-40
+6203,"Korea, South","2020","-4,740"
+7101,Bangladesh,"2020",-560
+7102,Bhutan,"2020",-130
+7103,India,"2020","-10,650"
+7104,Maldives,"2020",-30
+7105,Nepal,"2020","-2,090"
+7106,Pakistan,"2020",-730
+7107,Sri Lanka,"2020",-830
+7201,Afghanistan,"2020","1,460"
+7202,Armenia,"2020",10
+7203,Azerbaijan,"2020",-20
+7204,Georgia,"2020",30
+7205,Kazakhstan,"2020",-30
+7206,Kyrgyzstan,"2020",-10
+7207,Tajikistan,"2020",0
+7208,Turkmenistan,"2020",0
+7211,Uzbekistan,"2020",-60
+8101,Bermuda,"2020",0
+8102,Canada,"2020",-400
+8103,St Pierre/Mique,"2020",0
+8104,USA,"2020",-10
+8201,Argentina,"2020",-390
+8202,Bolivia,"2020",-10
+8203,Brazil,"2020","-1,750"
+8204,Chile,"2020",-400
+8205,Colombia,"2020","-1,460"
+8206,Ecuador,"2020",-40
+8207,Falkland Is,"2020",0
+8208,French Guiana,"2020",0
+8211,Guyana,"2020",0
+8212,Paraguay,"2020",-10
+8213,Peru,"2020",-50
+8214,Suriname,"2020",0
+8215,Uruguay,"2020",-80
+8216,Venezuela,"2020",-20
+8299,"S America, nec","2020",0
+8301,Belize,"2020",0
+8302,Costa Rica,"2020",0
+8303,El Salvador,"2020",30
+8304,Guatemala,"2020",0
+8305,Honduras,"2020",20
+8306,Mexico,"2020",-140
+8307,Nicaragua,"2020",0
+8308,Panama,"2020",-10
+8401,Anguilla,"2020",0
+8402,Antigua/Barbuda,"2020",0
+8403,Aruba,"2020",0
+8404,Bahamas,"2020",0
+8405,Barbados,"2020",0
+8406,Cayman Islands,"2020",0
+8407,Cuba,"2020",0
+8408,Dominica,"2020",0
+8411,Dominican Rep,"2020",10
+8412,Grenada,"2020",0
+8413,Guadeloupe,"2020",0
+8414,Haiti,"2020",0
+8415,Jamaica,"2020",0
+8416,Martinique,"2020",0
+8417,Montserrat,"2020",0
+8421,Puerto Rico,"2020",-10
+8422,St Kitts/Nevis,"2020",0
+8423,St Lucia,"2020",0
+8424,St Vinc/Grenad,"2020",0
+8425,Trinidad/Tobago,"2020",10
+8426,Turks/Caicos Is,"2020",0
+8427,"Virgin Is, Brit","2020",0
+8428,"Virgin Is, US","2020",0
+8431,St Barthelemy,"2020",0
+8432,St Martin (Fr),"2020",0
+8433,Bonaire/SE/Saba,"2020",0
+8434,Curacao,"2020",0
+8435,Sint Maarten Dp,"2020",0
+9101,Benin,"2020",-10
+9102,Burkina Faso,"2020",0
+9103,Cameroon,"2020",0
+9104,Cabo Verde,"2020",0
+9105,Cent Africa Rep,"2020",0
+9106,Chad,"2020",0
+9107,"Congo, Rep","2020",10
+9108,"Congo, Dem Rep","2020",30
+9111,Cote d'Ivoire,"2020",0
+9112,Equator Guinea,"2020",0
+9113,Gabon,"2020",0
+9114,Gambia,"2020",0
+9115,Ghana,"2020",-60
+9116,Guinea,"2020",10
+9117,Guinea-Bissau,"2020",0
+9118,Liberia,"2020",20
+9121,Mali,"2020",0
+9122,Mauritania,"2020",0
+9123,Niger,"2020",0
+9124,Nigeria,"2020",10
+9125,Sao Tome/Princ,"2020",0
+9126,Senegal,"2020",10
+9127,Sierra Leone,"2020",20
+9128,Togo,"2020",0
+9201,Angola,"2020",0
+9202,Botswana,"2020",-20
+9203,Burundi,"2020",0
+9204,Comoros,"2020",0
+9205,Djibouti,"2020",0
+9206,Eritrea,"2020",20
+9207,Ethiopia,"2020",150
+9208,Kenya,"2020",-70
+9211,Lesotho,"2020",0
+9212,Madagascar,"2020",-10
+9213,Malawi,"2020",-20
+9214,Mauritius,"2020",-240
+9215,Mayotte,"2020",0
+9216,Mozambique,"2020",-20
+9217,Namibia,"2020",10
+9218,Reunion,"2020",-10
+9221,Rwanda,"2020",10
+9222,St Helena,"2020",0
+9223,Seychelles,"2020",0
+9224,Somalia,"2020",-10
+9225,South Africa,"2020","2,560"
+9226,Eswatini,"2020",0
+9227,Tanzania,"2020",-10
+9228,Uganda,"2020",20
+9231,Zambia,"2020",20
+9232,Zimbabwe,"2020",200
+9299,"S & E Afr, nec","2020",0
 0000,Inadequately Described,2020,0
 1101,Australia,2021,-14160
 1102,Norfolk Island,2021,0
