@@ -499,3 +499,254 @@ SACC code,Country of birth,Year,Net Migration
 9232,Zimbabwe,2021,1050
 9299,"S & E Afr, nec",2021,0
 0000,Inadequately Described,2021,0
+1101	Australia	2019	18060
+1102	Norfolk Island	2019	0
+1199	Aust E T, nec	2019	0
+1201	New Zealand	2019	-360
+1301	New Caledonia	2019	10
+1302	PNG	2019	630
+1303	Solomon Islands	2019	300
+1304	Vanuatu	2019	2450
+1401	Guam	2019	10
+1402	Kiribati	2019	100
+1403	Marshall Is	2019	0
+1404	Micronesia, F S	2019	0
+1405	Nauru	2019	50
+1406	N Mariana Is	2019	0
+1407	Palau	2019	0
+1501	Cook Islands	2019	40
+1502	Fiji	2019	2210
+1503	French Poly	2019	10
+1504	Niue	2019	10
+1505	Samoa	2019	1340
+1506	Samoa American	2019	20
+1507	Tokelau	2019	-10
+1508	Tonga	2019	2430
+1511	Tuvalu	2019	40
+1512	Wallis/Futuna	2019	0
+1513	Pitcairn Is	2019	0
+1599	Polynesia, nec	2019	0
+1601	Adelie Land	2019	0
+1602	Argentinian A T	2019	0
+1603	Australian A T	2019	0
+1604	British A T	2019	0
+1605	Chilean A T	2019	0
+1606	Queen Maud Land	2019	0
+1607	Ross Dependency	2019	0
+2100	UK, CIs & IOM	2019	10670
+2201	Ireland	2019	1260
+2301	Austria	2019	60
+2302	Belgium	2019	350
+2303	France	2019	1980
+2304	Germany	2019	1170
+2305	Liechtenstein	2019	0
+2306	Luxembourg	2019	10
+2307	Monaco	2019	10
+2308	Netherlands	2019	500
+2311	Switzerland	2019	140
+2401	Denmark	2019	100
+2402	Faroe Islands	2019	0
+2403	Finland	2019	30
+2404	Greenland	2019	0
+2405	Iceland	2019	20
+2406	Norway	2019	0
+2407	Sweden	2019	30
+2408	Aland Islands	2019	0
+3101	Andorra	2019	0
+3102	Gibraltar	2019	0
+3103	Holy See	2019	0
+3104	Italy	2019	1110
+3105	Malta	2019	20
+3106	Portugal	2019	90
+3107	San Marino	2019	0
+3108	Spain	2019	950
+3201	Albania	2019	100
+3202	Bosnia/Herzegov	2019	40
+3203	Bulgaria	2019	50
+3204	Croatia	2019	100
+3205	Cyprus	2019	20
+3206	North Macedonia	2019	-470
+3207	Greece	2019	100
+3208	Moldova	2019	50
+3211	Romania	2019	180
+3212	Slovenia	2019	10
+3214	Montenegro	2019	10
+3215	Serbia	2019	150
+3216	Kosovo	2019	20
+3301	Belarus	2019	90
+3302	Czechia	2019	20
+3303	Estonia	2019	10
+3304	Hungary	2019	60
+3305	Latvia	2019	70
+3306	Lithuania	2019	40
+3307	Poland	2019	340
+3308	Russia	2019	860
+3311	Slovakia	2019	-20
+3312	Ukraine	2019	340
+4101	Algeria	2019	50
+4102	Egypt	2019	1110
+4103	Libya	2019	20
+4104	Morocco	2019	140
+4105	Sudan	2019	70
+4106	Tunisia	2019	40
+4107	Western Sahara	2019	0
+4108	Sp North Africa	2019	0
+4111	South Sudan	2019	20
+4201	Bahrain	2019	70
+4202	Gaza Str/W Bank	2019	0
+4203	Iran	2019	3020
+4204	Iraq	2019	6420
+4205	Israel	2019	470
+4206	Jordan	2019	370
+4207	Kuwait	2019	110
+4208	Lebanon	2019	1750
+4211	Oman	2019	-330
+4212	Qatar	2019	170
+4213	Saudi Arabia	2019	-300
+4214	Syria	2019	940
+4215	Turkey	2019	970
+4216	Unit Arab Emir	2019	790
+4217	Yemen	2019	50
+5101	Myanmar	2019	1750
+5102	Cambodia	2019	1260
+5103	Laos	2019	230
+5104	Thailand	2019	1670
+5105	Vietnam	2019	7470
+5201	Brunei	2019	0
+5202	Indonesia	2019	3550
+5203	Malaysia	2019	1520
+5204	Philippines	2019	15350
+5205	Singapore	2019	-1380
+5206	Timor-Leste	2019	1210
+6101	China	2019	-18590
+6102	Hong Kong	2019	3050
+6103	Macau	2019	-80
+6104	Mongolia	2019	420
+6105	Taiwan	2019	-3970
+6201	Japan	2019	-1980
+6202	Korea, North	2019	-30
+6203	Korea, South	2019	-4330
+7101	Bangladesh	2019	2660
+7102	Bhutan	2019	1950
+7103	India	2019	59810
+7104	Maldives	2019	70
+7105	Nepal	2019	13340
+7106	Pakistan	2019	5600
+7107	Sri Lanka	2019	6960
+7201	Afghanistan	2019	3070
+7202	Armenia	2019	20
+7203	Azerbaijan	2019	0
+7204	Georgia	2019	20
+7205	Kazakhstan	2019	110
+7206	Kyrgyzstan	2019	30
+7207	Tajikistan	2019	10
+7208	Turkmenistan	2019	10
+7211	Uzbekistan	2019	80
+8101	Bermuda	2019	10
+8102	Canada	2019	860
+8103	St Pierre/Mique	2019	0
+8104	USA	2019	1870
+8201	Argentina	2019	2600
+8202	Bolivia	2019	50
+8203	Brazil	2019	1790
+8204	Chile	2019	1300
+8205	Colombia	2019	4650
+8206	Ecuador	2019	150
+8207	Falkland Is	2019	0
+8208	French Guiana	2019	0
+8211	Guyana	2019	0
+8212	Paraguay	2019	20
+8213	Peru	2019	560
+8214	Suriname	2019	0
+8215	Uruguay	2019	90
+8216	Venezuela	2019	290
+8299	S America, nec	2019	0
+8301	Belize	2019	0
+8302	Costa Rica	2019	10
+8303	El Salvador	2019	100
+8304	Guatemala	2019	30
+8305	Honduras	2019	40
+8306	Mexico	2019	340
+8307	Nicaragua	2019	10
+8308	Panama	2019	30
+8401	Anguilla	2019	0
+8402	Antigua/Barbuda	2019	0
+8403	Aruba	2019	0
+8404	Bahamas	2019	0
+8405	Barbados	2019	10
+8406	Cayman Islands	2019	10
+8407	Cuba	2019	40
+8408	Dominica	2019	0
+8411	Dominican Rep	2019	10
+8412	Grenada	2019	0
+8413	Guadeloupe	2019	0
+8414	Haiti	2019	10
+8415	Jamaica	2019	10
+8416	Martinique	2019	0
+8417	Montserrat	2019	0
+8421	Puerto Rico	2019	0
+8422	St Kitts/Nevis	2019	0
+8423	St Lucia	2019	0
+8424	St Vinc/Grenad	2019	10
+8425	Trinidad/Tobago	2019	40
+8426	Turks/Caicos Is	2019	0
+8427	Virgin Is, Brit	2019	0
+8428	Virgin Is, US	2019	0
+8431	St Barthelemy	2019	0
+8432	St Martin (Fr)	2019	0
+8433	Bonaire/SE/Saba	2019	0
+8434	Curacao	2019	0
+8435	Sint Maarten Dp	2019	0
+9101	Benin	2019	0
+9102	Burkina Faso	2019	10
+9103	Cameroon	2019	40
+9104	Cabo Verde	2019	10
+9105	Cent Africa Rep	2019	80
+9106	Chad	2019	30
+9107	Congo, Rep	2019	40
+9108	Congo, Dem Rep	2019	680
+9111	Cote d'Ivoire	2019	30
+9112	Equator Guinea	2019	0
+9113	Gabon	2019	0
+9114	Gambia	2019	0
+9115	Ghana	2019	230
+9116	Guinea	2019	10
+9117	Guinea-Bissau	2019	0
+9118	Liberia	2019	0
+9121	Mali	2019	0
+9122	Mauritania	2019	0
+9123	Niger	2019	0
+9124	Nigeria	2019	870
+9125	Sao Tome/Princ	2019	0
+9126	Senegal	2019	10
+9127	Sierra Leone	2019	20
+9128	Togo	2019	0
+9201	Angola	2019	10
+9202	Botswana	2019	60
+9203	Burundi	2019	200
+9204	Comoros	2019	0
+9205	Djibouti	2019	0
+9206	Eritrea	2019	450
+9207	Ethiopia	2019	600
+9208	Kenya	2019	970
+9211	Lesotho	2019	10
+9212	Madagascar	2019	10
+9213	Malawi	2019	40
+9214	Mauritius	2019	400
+9215	Mayotte	2019	0
+9216	Mozambique	2019	10
+9217	Namibia	2019	80
+9218	Reunion	2019	10
+9221	Rwanda	2019	50
+9222	St Helena	2019	0
+9223	Seychelles	2019	-10
+9224	Somalia	2019	-30
+9225	South Africa	2019	6380
+9226	Eswatini	2019	0
+9227	Tanzania	2019	170
+9228	Uganda	2019	210
+9231	Zambia	2019	170
+9232	Zimbabwe	2019	1100
+9299	S & E Afr, nec	2019	0
+0	Inadequately Described	2019	0
+
